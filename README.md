@@ -8,4 +8,4 @@ Colour Representation:
 WHITE = 0
 RED = 1.
 
-Submission for year 1, term 1 module assignment.
+Submission for Foundations of Comp & Tech in term 1 of year 1.
