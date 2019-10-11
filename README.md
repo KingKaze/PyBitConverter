@@ -7,3 +7,5 @@ Input desired number of bits to work with when prompt. Click on the rectangles t
 Colour Representation:
 WHITE = 0
 RED = 1.
+
+Submission for year 1, term 1 module assignment.
